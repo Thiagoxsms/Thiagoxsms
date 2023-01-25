@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Data Scientist and Biomedical Enginner
 --------------------------------------
 
-I am a friendly, polite and dedicated person, proactive, with a passion for what I do; I am organised, with good communication skills, a critical mind and tenacious. I have a clear mind, logical, with a practical approach to problem solving, ability to work in a team, ability to adapt and learn, creativity, with common sense and passion for my career. I have a passion for technology and computer science. Always excited to learn and implement new concepts. Responsible when given a task and especially persistent when working towards a specific personal or collective goal.
+I am a friendly, polite and dedicated person, proactive, with a passion for what I do; I am organised, with good communication skills, a critical mind and tenacious. I have a clear mind, logical, with a practical approach to problem solving, ability to work in a team, ability to adapt and learn, creativity, with common sense and passion for my career, technology and computer science. Always excited to learn and implement new concepts. Responsible when given a task and especially persistent when working towards a specific personal or collective goal.
 
 
 * 🌍  I'm based in Colombia, Medellin
